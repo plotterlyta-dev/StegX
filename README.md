@@ -22,6 +22,12 @@ pkg install python-pillow
 pip install pillow
 ```
 
+- Move To A Directory:
+```bash
+cd /sdcard
+```
+
+
 - Clone Repo:
 ```bash
 git clone https://github.com/plotterlyta-dev/StegX.git

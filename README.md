@@ -12,6 +12,5 @@ Follow these steps to install and run StegX in Termux:
 ```bash
 pkg update && pkg upgrade -y
 
-
-### Install Python
+ Install Python
 pkg install python -y

@@ -27,8 +27,13 @@ pip install pillow
 git clone https://github.com/plotterlyta-dev/StegX.git
 ```
 
-- :
+- Go To Directory:
 ```bash
+cd StegX
+```
 
+- Run Script:
+```bash
+python stegX.py
 ```
 

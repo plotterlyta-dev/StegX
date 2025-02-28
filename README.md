@@ -43,3 +43,4 @@ cd StegX
 python stegX.py
 ```
 
+Tutorial Video Coming Soon

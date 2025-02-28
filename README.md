@@ -6,7 +6,7 @@ StegX is a simple steganography tool that allows you to hide and extract secret 
 
 Follow these steps to install and run StegX in Termux:  
 
-- Install `Dependencies':
+- Install Dependencies:
 ```bash
 pkg update && pkg upgrade -y
 ```

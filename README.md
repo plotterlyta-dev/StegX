@@ -24,7 +24,7 @@ pip install pillow
 
 - Clone Repo:
 ```bash
-git clone 
+git clone https://github.com/plotterlyta-dev/StegX.git
 ```
 
 - :

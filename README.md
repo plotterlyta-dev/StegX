@@ -22,3 +22,13 @@ pkg install python-pillow
 pip install pillow
 ```
 
+- Clone Repo:
+```bash
+git clone 
+```
+
+- :
+```bash
+
+```
+
